@@ -36,3 +36,4 @@ while True:
 
     else:
         print("opção inexistente.")
+        break
